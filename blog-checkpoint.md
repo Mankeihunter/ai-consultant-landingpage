@@ -1,21 +1,20 @@
-# Blog Checkpoint: Woche 2 – Mama Burnout
+# Blog Checkpoint: Woche 4 – Emotionsregulation Kinder
+**Datum:** 23.03.2026  
+**Status:** Woche 4 aktiv
 
-**Datum:** 09.03.2026  
-**Status:** Woche 2 aktiv
-
-## Heutiger Artikel (09.03.2026)
-- **Thema:** Mama Burnout
-- **Woche:** 2 von 12
-- **Veröffentlichungsdatum:** 09.03.2026
+## Heutiger Artikel (23.03.2026)
+- **Thema:** Emotionsregulation Kinder
+- **Woche:** 4 von 12
+- **Veröffentlichungsdatum:** 23.03.2026
 
 ## Veröffentlichungsplan – Gesamtübersicht
 
 | Woche | Datum      | Thema                            | Status           |
 |-------|------------|----------------------------------|------------------|
 | 1     | 02.03.2026 | Patchwork Familie                | ✅ Veröffentlicht |
-| 2     | 09.03.2026 | Mama Burnout                     | ✅ Heute          |
-| 3     | 16.03.2026 | Mental Load                      | ⏳ Ausstehend    |
-| 4     | 23.03.2026 | Emotionsregulation Kinder        | ⏳ Ausstehend    |
+| 2     | 09.03.2026 | Mama Burnout                     | ✅ Veröffentlicht |
+| 3     | 16.03.2026 | Mental Load                      | ✅ Veröffentlicht |
+| 4     | 23.03.2026 | Emotionsregulation Kinder        | ✅ Heute          |
 | 5     | 30.03.2026 | Bedürfnisorientierte Erziehung   | ⏳ Ausstehend    |
 | 6     | 06.04.2026 | Selbstbewusstsein stärken Kinder | ⏳ Ausstehend    |
 | 7     | 13.04.2026 | Trotzphase mit 3                 | ⏳ Ausstehend    |
