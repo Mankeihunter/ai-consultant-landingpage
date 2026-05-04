@@ -1,11 +1,11 @@
-# Blog Checkpoint: Woche 9 – Alleinerziehende Mutter
-**Datum:** 27.04.2026  
-**Status:** Woche 9 aktiv
+# Blog Checkpoint: Woche 10 – Konzentrationsprobleme Kinder
+**Datum:** 04.05.2026  
+**Status:** Woche 10 aktiv
 
-## Heutiger Artikel (27.04.2026)
-- **Thema:** Alleinerziehende Mutter
-- **Woche:** 9 von 12
-- **Veröffentlichungsdatum:** 27.04.2026
+## Heutiger Artikel (04.05.2026)
+- **Thema:** Konzentrationsprobleme Kinder
+- **Woche:** 10 von 12
+- **Veröffentlichungsdatum:** 04.05.2026
 
 ## Veröffentlichungsplan – Gesamtübersicht
 
@@ -19,8 +19,8 @@
 | 6     | 06.04.2026 | Selbstbewusstsein stärken Kinder | ✅ Veröffentlicht  |
 | 7     | 13.04.2026 | Trotzphase mit 3                 | ✅ Veröffentlicht  |
 | 8     | 20.04.2026 | Trennungsangst Kind              | ✅ Veröffentlicht  |
-| 9     | 27.04.2026 | Alleinerziehende Mutter          | ✅ Heute           |
-| 10    | 04.05.2026 | Konzentrationsprobleme Kinder    | ⏳ Ausstehend     |
+| 9     | 27.04.2026 | Alleinerziehende Mutter          | ✅ Veröffentlicht  |
+| 10    | 04.05.2026 | Konzentrationsprobleme Kinder    | ✅ Heute           |
 | 11    | 11.05.2026 | Prüfungsangst Kinder             | ⏳ Ausstehend     |
 | 12    | 18.05.2026 | Loyalitätskonflikt Kinder        | ⏳ Ausstehend     |
 
